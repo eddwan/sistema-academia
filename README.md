@@ -2,5 +2,5 @@
 
 Protótipo para sistemas administrativos de academias
 
-Contributors:
+Contribuidores:
 - Eddwan Hallen (eddwan@gmail.com)
